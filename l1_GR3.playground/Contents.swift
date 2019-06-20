@@ -1,4 +1,6 @@
 import UIKit
+import Foundation
+
 
 var sm: Double = 0
 var sy: Double = 0
